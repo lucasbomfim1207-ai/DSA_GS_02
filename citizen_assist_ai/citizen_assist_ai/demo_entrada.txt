@@ -1,0 +1,55 @@
+7
+2
+99
+abc
+3
+1
+vacina
+3
+2
+saude
+3
+2
+esportes
+1
+503
+Iluminação de praça
+Serviços Urbanos
+Solicitação de instalação de iluminação em praça pública.
+Endereço da praça
+Central 156
+1
+503
+504
+Zeladoria de calçadas
+9
+5
+Reparo de calçadas danificadas.
+Endereço e foto
+Subprefeitura
+6
+3
+2
+6
+1
+1
+4
+504
+Zeladoria de calçadas urbanas
+
+Reparo e nivelamento de calçadas danificadas.
+
+
+2
+504
+5
+999
+5
+504
+talvez
+s
+2
+504
+7
+15
+0
